@@ -8,9 +8,9 @@ import { useToast } from "@/hooks/use-toast";
 import ScrollReveal from "./ScrollReveal";
 
 // Replace these with your actual EmailJS credentials
-const EMAILJS_SERVICE_ID = "YOUR_SERVICE_ID";
-const EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID";
-const EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
+const EMAILJS_SERVICE_ID = "service_goj7tfs";
+const EMAILJS_TEMPLATE_ID = "template_vev64g2";
+const EMAILJS_PUBLIC_KEY = "DTjhgpXN-_NdPqFia";
 
 const Contact = () => {
   const { toast } = useToast();
